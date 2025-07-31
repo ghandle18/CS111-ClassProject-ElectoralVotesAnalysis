@@ -1,1 +1,2 @@
-# learn_github
+# Class Project
+This project analyse electoral votes in States within the US for a specific timeframe
