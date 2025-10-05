@@ -1,4 +1,5 @@
-# CS111 - Electoral Votes Analysis Class Project - This project analyse electoral votes in States within the US for a specific timeframe
+# CS111 - Electoral Votes Analysis Class Project 
+This project analyse electoral votes in States within the US for a specific timeframe
 # Overview
 In the United States, the President is not elected by popular vote. Instead, they are chosen by the electoral college.
 
