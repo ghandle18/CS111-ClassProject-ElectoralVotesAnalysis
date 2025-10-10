@@ -17,7 +17,7 @@ Get Election Results by State
 Get Election Results by Electoral College
 Get Election Results by Popular Vote
 
-# *** Project: Analyzing U.S. Election Data ***
+# *** Project: Analyzing U.S. Election Data
 (Menu)
   Please choose one of the following options:
   1 - Get Election Results by State
